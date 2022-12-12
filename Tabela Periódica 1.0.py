@@ -5,15 +5,6 @@ Created on Sat Aug  3 18:29:31 2019
 @author: Caio
 """
 
-
-
-
-
-
-
-
-
-
 # Criando uma lista que será preenchida com o nome dos elementos.
 Elementos = []
 
