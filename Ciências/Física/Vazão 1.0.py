@@ -18,9 +18,10 @@ class Vazão():
         F=V/T # A vazão que transporta um certo volume ao longo de um certo tempo
         
                   
-        print(F)
-        
-    VazãoVolumetrica()
+        return print(F)
+
+Vazão.VazãoVolumetrica()
+
     
     
     
