@@ -13,7 +13,6 @@ Created on Wed Aug  7 18:38:04 2019
 
 #Define a classe Densidade Molecular - Isso permite definir a síntese de substâncias - Afinal estamos tratando de moléculas por volume.
 
-
 class SíntesedeSubstâncias:
     
     def DensidadeMolecular():
@@ -45,8 +44,6 @@ class SíntesedeSubstâncias:
                
     MonóxidodeNitrogênio()
 
-
-
     def Água():
     
         Hidrogênio=int(input())
@@ -71,17 +68,3 @@ class SíntesedeSubstâncias:
 
 #Este programa não está completo pois ele não considera que os átomos respeitam proporções definidas para formarem substâncias
 # E eu teria de fazer isso manualmente, o que torna muito complicado.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
