@@ -1,11 +1,8 @@
 #Uma característica interessante que define os números Pares e Ímpares
 # É que o resto da divisão de um número par é zero
 # E o resto da divisão de um numero impar é diferente de 0
-
-
-
 #Enquanto esta condição estiver ligada
-V = True;
+V = True
 while V ==True:   
     # O usuário insere um número inteiro
     n =int(input())  
