@@ -28,15 +28,9 @@ class SíntesedeSubstâncias:
         
         n = N/V
         print("A densidade molecular é:", n)
-        
-        
-        
-        
+              
     DensidadeMolecular()
 
-
-
-#
     def MonóxidodeNitrogênio():
         # Insere a quantidade de moléculas de cada elemento
         MoleculasdeNitrogênio=int(input("Insira a quantidade de moléculas de nitrogênio:",)) 
