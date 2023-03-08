@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 from scipy.stats import norm
 
 # Conjunto de objetos em uma cesta, a média é 8 e o desvio padrão é 2
