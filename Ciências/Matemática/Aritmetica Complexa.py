@@ -41,7 +41,4 @@ s.real
 s.imag
 #Conjugado
 s.conjugate()
-
-
-
 # Funções complexas com Python
